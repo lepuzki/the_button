@@ -1,6 +1,8 @@
-# Button Game Simulation
+# The Button Game Simulation
 
 Welcome to the Button Game Simulation! This project simulates a button-clicking game where each button press gives you 1 point, but with each press, the probability of losing all points increases by 1%. The simulation continuously runs and displays real-time statistics including the total number of tries, maximum points achieved, and tries per minute.
+
+(simulates this game basically https://store.steampowered.com/app/1999740/THE_BUTTON_by_Elendow/)
 
 ## Features
 
